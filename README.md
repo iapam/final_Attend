@@ -47,6 +47,8 @@ The model has an accuracy of 99.38%.
 
     Note: There has to be only one face per image otherwise encoding will be for the first face found in the image.
 
+- During attendance taking,  If the newly obtained features is matched with the already extracted features in the dataset, an attendance is taking.
+- The user can the generate reports once attendance is taken.
 
 
 
